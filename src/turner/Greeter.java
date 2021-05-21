@@ -1,6 +1,8 @@
 package turner;
 
-public interface Greeter {
+public class Greeter {
+    String sayHello() {
+        return null;
+    }
 
-    String sayHello();
 }
